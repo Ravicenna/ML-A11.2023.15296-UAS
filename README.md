@@ -45,8 +45,7 @@ Selain itu, digunakan **SHAP (SHapley Additive exPlanations)** sebagai alat inte
 ## **3. Penjelasan Dataset, EDA dan Proses Features Dataset**
 
 
-Kunjungi [Link Kaggle]([) untuk informasi dataset.
-<a href="[https://github.com](https://github.com](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data" target="_blank"></a>
+Kunjungi [dataset fraud di Kaggle](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data) untuk informasi dataset.
 
 | Nama Kolom       | Deskripsi                                                                 |
 |------------------|---------------------------------------------------------------------------|

@@ -47,6 +47,8 @@ Selain itu, digunakan **SHAP (SHapley Additive exPlanations)** sebagai alat inte
 
 Dataset berisi lebih dari 6 juta transaksi keuangan dengan 10 fitur utama dan 1 target isFraud. Fitur:
 
+Kunjungi [Link Kaggle]([https://github.com](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data)) untuk informasi dataset.
+
 
 | Nama Kolom       | Deskripsi                                                                 |
 |------------------|---------------------------------------------------------------------------|
